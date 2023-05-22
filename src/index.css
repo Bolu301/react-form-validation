@@ -1,7 +1,13 @@
+body {
+  background-image: url("img/bg-img.png");
+}
+
+.icon {
+  width: 17px;
+  height: 17px;
+  vertical-align: -0.125em;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-body {
-  background-image: url("img/bg-img.webp");
-}
